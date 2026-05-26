@@ -1,59 +1,72 @@
-<h1 align="center">¡Hola, soy Joaquín! 👋</h1>
-
-<h3 align="center">Estudiante de Ingeniería Civil Informática | Desarrollador de Software</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=Vistas+del+perfil&color=0e75b6&style=flat" alt="Contador de vistas" />
-</p>
-
----
-
-### 👨‍💻 Sobre mí
-
-- 🎓 Cursando **Ingeniería Civil Informática** desde Concepción, Chile.
-- 🔭 Actualmente desarrollando **Pre-Sent**, una aplicación móvil para automatizar la asistencia universitaria mediante códigos QR dinámicos y localización GPS.
-- 💼 Mi experiencia reciente incluye el desarrollo de plataformas para evaluaciones de comportamiento (DISC) optimizadas para entornos empresariales.
-- 🎵 En mis ratos libres, produzco música urbana en FL Studio y disfruto del gaming.
-- 📫 Puedes contactarme en: **tu-correo@ejemplo.com** o en **[LinkedIn](enlace-a-tu-linkedin)**.
-
----
-
-### 🛠️ Tech Stack y Herramientas
-
-<p align="left">
-  <!-- Backend & Lenguajes -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <br>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <br>
-  <!-- Bases de Datos y Herramientas -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
+<!-- ──────────────────────────────────────────── -->
+<!--           github profile · jgutierrezr10   -->
+<!-- ──────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
-<br>
+```
+J G U T I E R R E Z R 1 0
+```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+**Estudiante de Ingeniería Civil Informática**  
+*Universidad San Sebastián · VII semestre · Concepción, Chile*
+
 </div>
 
 ---
-<p align="center"><i>Transformando lógica en software desde el sur del mundo.</i> 🚀</p>
+
+### sobre mí
+
+Desarrollando mi camino en el mundo del software con base sólida en algoritmia, sistemas y desarrollo de aplicaciones.  
+Orientado a construir soluciones limpias y bien razonadas.
+
+---
+
+### tecnologías & stack
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-000000?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+### proyectos destacados
+
+| proyecto | descripción | tecnologías |
+|---|---|---|
+| [Proyecto 1](https://github.com/jgutierrezr10) | Descripción breve del proyecto y su objetivo | Python · SQL |
+| [Proyecto 2](https://github.com/jgutierrezr10) | Descripción breve del proyecto y su objetivo | Java · Git |
+
+> *Actualiza los nombres, links y descripciones con tus repos reales.*
+
+---
+
+### github stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jgutierrezr10&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgutierrezr10&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff)
+
+</div>
+
+---
+
+### contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:tucorreo@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/jgutierrezr10)
+
+---
+
+<div align="center">
+<sub>— actualizado · 2025</sub>
+</div>
