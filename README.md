@@ -40,8 +40,8 @@ Desarrollando mi camino en el mundo del software con base sólida en algoritmia,
 
 | proyecto | descripción | stack |
 |---|---|---|
-| [**Proyecto 1**](https://github.com/jgutierrezr10) | Descripción breve — objetivo y tecnologías | `Python` `SQL` |
-| [**Proyecto 2**](https://github.com/jgutierrezr10) | Descripción breve — objetivo y tecnologías | `Java` `Git` |
+| [Stu.io](https://github.com/jgutierrezr10/Avance_Curricular) | Gestion de Estudio | `SpringBoot` `Angular` |
+| [V](https://github.com/jgutierrezr10/App_Pareja) | App para tu pareja | `Firebase` `Realt Native` |
 
 > ⚠️ *Actualiza con tus repos reales y sus descripciones.*
 
@@ -68,7 +68,7 @@ Desarrollando mi camino en el mundo del software con base sólida en algoritmia,
 ### `> cat ./contact.txt`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Gmail](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:tucorreo@email.com)
+[![Gmail](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:jgutierrezreyes2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/jgutierrezr10)
 
 ---
