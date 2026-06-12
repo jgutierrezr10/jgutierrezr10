@@ -12,38 +12,35 @@
 
 ### `> whoami`
 
-Desarrollando mi camino en el mundo del software con base sólida en algoritmia, sistemas y desarrollo de aplicaciones. Orientado a construir soluciones limpias y bien razonadas.
+Desarrollando mi camino en el mundo del software con base sólida en algoritmia, sistemas y desarrollo de aplicaciones. Orientado a construir soluciones elegantes y bien razonadas.
 
 ```
 📍 Concepción, Chile
-🎓 Ingeniería Civil Informática — Universidad San Sebastián (VII sem.)
-💻 Interesado en: Backend · Sistemas · Desarrollo de Software
+🎓 Ingeniería Civil en Informática — Universidad San Sebastián (VII sem.)
+💻 Interesado en: Backend · Fullstack · Sistemas · Desarrollo de Software
 ```
 
 ---
 
 ### `> stack --list`
 
+![PHP](https://img.shields.io/badge/PHP_Laravel-000?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java_SpringBoot-000?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML%2FCSS-000?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
+![React/NextJS](https://img.shields.io/badge/JS_(React/Next)-000?style=flat-square&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2FMySQL-000?style=flat-square&logo=postgresql&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-000?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
 ### `> ls ./projects`
 
-| proyecto | descripción | stack |
+| proyecto | descripción | estado |
 |---|---|---|
-| [Stu.io](https://github.com/jgutierrezr10/Avance_Curricular) | Gestion de Estudio | `SpringBoot` `Angular` |
-| [V](https://github.com/jgutierrezr10/App_Pareja) | App para tu pareja | `Firebase` `Realt Native` |
-
-> ⚠️ *Actualiza con tus repos reales y sus descripciones.*
+| [Emergencia_PSorda](https://github.com/jgutierrezr10/Emergencia_PSorda) | Sistema orientado a la atención de emergencias para personas sordas. | `En desarrollo` |
+| [Plataforma Aula](https://github.com/jgutierrezr10/aula) | Plataforma web educativa interactiva para la gestión académica. | `Finalizado` |
+| [App "Pre-Sent"](#) | Aplicación móvil para automatización de asistencia universitaria (GPS/QR). | `Idea` |
+| [Evaluaciones DISC](#) | Gestión y análisis full-stack de pruebas de comportamiento. | `En desarrollo` |
 
 ---
 
@@ -67,7 +64,7 @@ Desarrollando mi camino en el mundo del software con base sólida en algoritmia,
 
 ### `> cat ./contact.txt`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgutierrezr10)
 [![Gmail](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:jgutierrezreyes2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/jgutierrezr10)
 
@@ -78,5 +75,5 @@ Desarrollando mi camino en el mundo del software con base sólida en algoritmia,
 </div>
 
 <div align="center">
-<sub><code>— updated 2025 · jgutierrezr10</code></sub>
+<sub><code>— updated 2026 · jgutierrezr10</code></sub>
 </div>
